@@ -18,10 +18,10 @@ global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['60177426853','6285731811079','6285339388512']
-global.premium = ['60177426853']
-global.packname = 'The Jo Bot'
-global.author = 'WhatsApp Bot'
+global.owner = ['6283822892316','6283822892316','6283822892316']
+global.premium = ['6283822892316']
+global.packname = 'wa.Me/6283822892316'
+global.author = 'Kishoya'
 global.wlcm = []
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
